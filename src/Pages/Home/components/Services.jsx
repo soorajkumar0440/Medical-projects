@@ -4,11 +4,11 @@ const Services = () => {
     return (
         <div className='services'>
             <div className='item'>
-                <img src='./images/eicon.png' />
+                <img src='./images/eIectro.png' />
                 <div className='content'>
                     <p>Electro</p>
                 </div>
-                    <hr />
+                <hr />
                 <div className='bton'>
                     <button>More</button>
                 </div>
